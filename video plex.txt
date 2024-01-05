@@ -1,0 +1,7 @@
+
+#EXTM3U
+#EXTINF:0
+https://vod-content.plexvideos.com/streams/653be7bf472b8ab03eecd823/9e986d61-7f55-4a79-bbfe-ac279b5a837f/stream_3.m3u8
+#EXTINF:1
+https://vod-content.plexvideos.com/streams/653be7bf472b8ab03eecd823/9e986d61-7f55-4a79-bbfe-ac279b5a837f/stream_8.m3u8
+
